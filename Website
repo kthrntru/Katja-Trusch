@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+	<head>
+<meta charset="UTF-8">
+<title>LESS.</title>
+<link href="WebsitePortfolio.css" rel="stylesheet" type="text/css">
+	
+		<h1>LESS.</h1>
+	<h2>Identify the essential. Eliminate the rest.</h2>
+		
+	</head>
+	<nav>
+   <ul>
+      <li><a href="#">1</a></li>
+      <li><a href="Websitebilder">2</a></li>
+      <li><a href="#">3</a></li>
+      <li><a href="#">4</a></li>
+  </ul>
+</nav>
+
+	<body>
+	<p> sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p> 
+	
+	
+	<div id="liste2">
+	  <ul>
+      <li><a href="#">ABC</a></li>
+      <li><a href="#">CDE</a></li>
+      <li><a href="#">FGH</a></li>
+      <li><a href="#">IJK</a></li>
+  </ul>
+</div>
+
+
+<img src="../Downloads/ .jpg" alt="Me" height="400px" width="400px"<img class="left" border="0" alt="Banner />
+<p> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>
+	
+
+</body>
+<footer> 
+	
+
+
+	<p>_____________________________</p>
+<h4>About me:</h4>
+	<p>Katja Trusch
+	</p>
+	<p> katharinatrush@gmail.com </p> 								
+<p> Instagram: katharinatruu</p>
+	
+
+</footer>
+</html>
